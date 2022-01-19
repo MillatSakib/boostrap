@@ -1,0 +1,25 @@
+.text{
+    text-align: justify;
+    
+}
+.pic{
+    margin-top: 1%;
+    border-radius: 15px;
+}
+
+.upore{
+    margin-top: 50px;
+}
+.img-size{
+    width:200px;
+}
+.pashe{
+
+    width: 530px;
+    
+
+}
+
+.back-color{
+    background-color: rgba(158, 150, 150, 0.856);
+}
